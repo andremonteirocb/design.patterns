@@ -7,8 +7,4 @@
     <StartupObject />
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Observer\" />
-  </ItemGroup>
-
 </Project>
