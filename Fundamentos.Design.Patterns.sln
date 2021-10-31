@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Patterns", "Design.Patterns\Design.Patterns.csproj", "{2EB097ED-290B-4B55-8D84-AE3D1A85CB51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentos.Design.Patterns", "Fundamentos.Design.Patterns\Fundamentos.Design.Patterns.csproj", "{2EB097ED-290B-4B55-8D84-AE3D1A85CB51}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desing.Patterns.Tests", "Desing.Patterns.Tests\Desing.Patterns.Tests.csproj", "{F4D48829-DED8-4534-BDA2-FA3A50ECC7DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentos.Design.Patterns.Tests", "Fundamentos.Design.Patterns.Tests\Fundamentos.Design.Patterns.Tests.csproj", "{F4D48829-DED8-4534-BDA2-FA3A50ECC7DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
