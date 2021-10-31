@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Design.Patterns\Design.Patterns.csproj" />
+    <ProjectReference Include="..\Fundamentos.Design.Patterns\Fundamentos.Design.Patterns.csproj" />
   </ItemGroup>
 
 </Project>
