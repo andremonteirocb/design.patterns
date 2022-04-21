@@ -16,7 +16,7 @@ namespace Desing.Patterns.Tests
                 .UseEnabledSsl();
 
             //Act
-            var result = builder.Send();
+            var result = builder.Send(); 
 
             //Assert
             Assert.True(result);
