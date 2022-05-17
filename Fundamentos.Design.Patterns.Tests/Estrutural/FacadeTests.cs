@@ -14,7 +14,7 @@ namespace Desing.Patterns.Tests
             var impressao = new Impressao();
             var facade = new Facade(transacao, impressao);
 
-            //Act
+            //Act e teste
             var result = facade.Pagar();
 
             //Assert
