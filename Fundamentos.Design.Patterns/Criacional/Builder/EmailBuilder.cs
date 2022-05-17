@@ -19,13 +19,15 @@ namespace Fundamentos.Design.Patterns.Criacional.Builder
             Message = new MailMessage(remetente, destinatario, assunto, mensagem);
         }
 
-        public void AddAnexos(ArrayList anexos)
+        public EmailBuilder AddAnexos(ArrayList anexos)
         {
             foreach (string anexo in anexos)
             {
                 Attachment anexado = new Attachment(anexo, MediaTypeNames.Application.Octet);
                 Message.Attachments.Add(anexado);
             }
+
+            return this;
         }
 
         public EmailBuilder AddSmtp(string host, int port)
