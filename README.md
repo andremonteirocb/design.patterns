@@ -2,3 +2,4 @@
 #### Material de estudo dos design patterns.
 
 | Package | Version | Downloads |
+| ------- | ------- | ------- |
