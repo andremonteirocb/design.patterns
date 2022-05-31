@@ -1,4 +1,4 @@
-# fundamentos.design.patterns
+# design.patterns
 #### Material de estudo dos design patterns.
 
 # Testando dashboard para pacotes nugets:
